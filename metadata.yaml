@@ -1,5 +1,8 @@
 _repo: Wesley-s-Designated-Successor-The-Life-Letters-and-Literary-Labours-of-the-Rev-John-William-F__66910
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 66910-h/images/cover.jpg
 creator:
   author:
     agent_name: Tyerman, L. (Luke)
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '42671'
     url: http://www.gutenberg.org/2009/agents/42671
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66910#Wesley-s-Designated-Successor-The-Life-Letters-and-Literary-Labours-of-the-Rev-John-William-F_
 gutenberg_issued: '2021-12-09'
 identifiers:
   gutenberg: '66910'
